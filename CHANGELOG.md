@@ -1,5 +1,8 @@
 # Changelog - template-config
 
+## 2.6.1 - Matthias Wessendorf
+* Enable Android push metrics
+
 ## 2.6.0
 * RHMAP-3064 - Rebuilding to pickup latest helloworld-cloud
 * RHMAP-2969 - Wrong application name
